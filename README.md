@@ -1,2 +1,2 @@
-# MahjongEye
-麻雀牌をカメラで撮影して得点してくれるアプリ
+# MahjongEYE
+GitHub Pagesへアップロードすると公開できます。
