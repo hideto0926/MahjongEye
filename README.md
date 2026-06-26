@@ -1,2 +1,1 @@
-# MahjongEYE
-GitHub Pagesへアップロードすると公開できます。
+Upload to GitHub Pages.
